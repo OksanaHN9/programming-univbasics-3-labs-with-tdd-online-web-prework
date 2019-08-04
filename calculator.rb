@@ -2,4 +2,4 @@
 #this stuff doing?
 #your variables here 
 calculator.rb l 
-expect()
+first_number 2 
