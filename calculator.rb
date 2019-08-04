@@ -2,3 +2,4 @@
 #this stuff doing?
 #your variables here 
 calculator.rb l 
+expect()
